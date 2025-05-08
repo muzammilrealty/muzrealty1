@@ -194,7 +194,7 @@ const Footer = () => {
               </li>
               <li className="flex items-start">
                 <FaEnvelope className="mt-1 mr-3 text-gold-500" />
-                <span className="text-gray-400">info@MUZ Realty.com</span>
+                <span className="text-gray-400">mdmuzammil4028@gmail.com</span>
               </li>
               <li className="text-gray-400">
                 <p>Park Street, Kolkata</p>
